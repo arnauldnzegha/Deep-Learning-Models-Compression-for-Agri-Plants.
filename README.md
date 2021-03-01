@@ -1,5 +1,5 @@
 # Deep Learning Models Compression for Agricultural Plants
-[https://www.mdpi.com/2076-3417/10/19/6866/pdf][Fountsop, Arnauld Nzegha, Jean Louis Ebongue Kedieng Fendji, and Marcellin Atemkeng. "Deep Learning Models Compression for Agricultural Plants." Applied Sciences 10.19 (2020): 6866.]
+[Fountsop, Arnauld Nzegha, Jean Louis Ebongue Kedieng Fendji, and Marcellin Atemkeng. "Deep Learning Models Compression for Agricultural Plants." Applied Sciences 10.19 (2020): 6866.](https://www.mdpi.com/2076-3417/10/19/6866/pdf)
 
 
 
