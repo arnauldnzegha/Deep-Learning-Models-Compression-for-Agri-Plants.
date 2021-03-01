@@ -1,0 +1,2 @@
+# Deep-Learning-Models-Compression-for-Agri-Plants.
+we apply model pruning and quantization to LeNet5, VGG16, and AlexNet. Original and compressed models were applied to the benchmark of plant seedling classification (V2 Plant Seedlings Dataset) and Flavia database. Results reveal that it is possible to compress the size of these models by a factor of 38 and to reduce the FLOPs of VGG16 by a factor of 99 without considerable loss of accuracy.
